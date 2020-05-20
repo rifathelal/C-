@@ -187,15 +187,6 @@ namespace osu_bg
 
     class BackgroundTest
     {
-        static void Main()
-        {
-            string test = "C:\\Users\\rifat\\Desktop\\721240 GTA feat Sam Bruno - Red Lips (Mendus Remix)\\wallhaven-313313.jpg";
-            Background bg = new Background(test);
-            Console.WriteLine("Name: " + bg.Name);
-            Console.WriteLine("Path: " + bg.Path);
-            // bg.Blur();
-            // bg.Remove();
-            bg.Restore();
-        }
+        static void Main() {}
     }
 }

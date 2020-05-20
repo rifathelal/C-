@@ -81,11 +81,6 @@ namespace osu_bg
 
     class OsuTest
     {
-        static void Main()
-        {
-            string test = "C:\\Users\\rifat\\Desktop\\osu!\\osu!.exe";
-            Osu osu = new Osu(test);
-            Console.WriteLine(osu);
-        }
+        static void Main() {}
     }
 }

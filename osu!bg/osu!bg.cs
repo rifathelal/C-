@@ -11,8 +11,7 @@ using System.Windows.Forms;
 
 namespace osu_bg
 {
-    public enum ModificationType { Blur, Black, Grey, Disable, Colour }
-    //public enum ModificationType { Blur, Transparent, Colour}
+    public enum ModificationType { Blur, Disable, Colour }
 
     public partial class Osu_bg : Form
     {

@@ -113,13 +113,6 @@ namespace osu_bg
 
     class SongTest
     {
-        static void Main()
-        {
-            string test = "";
-            Song song = new Song(test);
-            Console.WriteLine(song.Name);
-            song.ParseSong();
-            Console.WriteLine(song);
-        }
+        static void Main() {}
     }
 }
